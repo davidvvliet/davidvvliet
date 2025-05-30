@@ -2,7 +2,7 @@
 
 www.marketradar.co
 
-![Alt Text](gears.gif)
+![Alt Text](gears_transparent.gif)
 
 
 
