@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/user-attachments/assets/c74178da-1de5-4446-b750-f4f96b60d139)
+![Alt Text](my-animation.gif)
+
 
