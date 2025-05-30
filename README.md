@@ -2,11 +2,10 @@
 
 ## **Building MarketRadar**
 
-<br>
 
 [www.marketradar.co](https://www.marketradar.co)
 
-<br><br>
+<br>
 
 ![Alt Text](gears_transparent.gif)
 
