@@ -1,4 +1,6 @@
-## Hi there 👋
+**Building MarketRadar**
+
+www.marketradar.co
 
 <!--
 **davidvvliet/davidvvliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/user-attachments/assets/c74178da-1de5-4446-b750-f4f96b60d139)
+
