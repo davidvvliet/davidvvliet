@@ -1,3 +1,5 @@
+<div align="center">
+  
 **Building MarketRadar**
 
 www.marketradar.co
@@ -6,4 +8,4 @@ www.marketradar.co
 
 
 
-
+</div>
