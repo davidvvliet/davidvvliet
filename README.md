@@ -3,7 +3,7 @@
 ## **Building Radar**
 
 
-[www.marketradar.co](https://www.marketradar.co)
+[www.tryradar.ai](https://www.tryradar.ai)
 
 <br>
 
