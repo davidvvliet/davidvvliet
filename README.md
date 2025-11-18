@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Building MarketRadar**
+## **Building Radar**
 
 
 [www.marketradar.co](https://www.marketradar.co)
