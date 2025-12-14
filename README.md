@@ -1,7 +1,6 @@
 <div align="center">
 
-## **Building Radar**
-
+**Building Radar**
 [www.tryradar.ai](https://www.tryradar.ai)
 
 
