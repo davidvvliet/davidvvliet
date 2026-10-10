@@ -1,8 +1,6 @@
 <div align="center">
 
-**Building Radar Corp.**
-[www.theradarcorp.com](https://www.theradarcorp.com)
-
+Tinkering around
 
 **Visit My Website**
 [www.davidv.nl](https://www.davidvvliet.com)
